@@ -7,5 +7,7 @@ dependencies:
   - pandas
   - statsmodels
   - notebook
+  - matplotlib
+  - seaborn
 prefix: /Users/psthomas/miniconda3/envs/cvap
 
