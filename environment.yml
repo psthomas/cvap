@@ -1,0 +1,11 @@
+name: cvap
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - statsmodels
+  - notebook
+prefix: /Users/psthomas/miniconda3/envs/cvap
+
