@@ -1,6 +1,6 @@
 # cvap
 
-Estimating the annual county, state, and national Citizen Voting Age Population (CVAP) data from the census [five year averages](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html). This is used in some of my other [projects](https://github.com/psthomas/election-vis) where I need a CVAP estimate to calculate voter turnout by county/state.
+This project estimates the annual county, state, and national Citizen Voting Age Population (CVAP) data using the census [five year averages](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html). I use this in some of my other [projects](https://github.com/psthomas/election-vis) where I need a CVAP estimate to calculate voter turnout by county/state.
 
 This is my approach:
 1. Import all the census CVAP 5 year averages.
